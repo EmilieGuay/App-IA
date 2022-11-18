@@ -1,0 +1,9 @@
+Ce modèle est un modèle de classification d'images entraîné avec Teachable Machine.
+
+Il classifie les objets dans les classes : Rouge, Bleu et Vert (pas nécessairement dans cet ordre).
+
+Il correspond au modèle final à entraîner dans l'activité de départ avec Teachable Machine pour contrôler les DEL.
+
+Il peut être utilisé pour faire l'activité avec les DEL si les élèves ont égaré leur modèle.
+
+Le modèle n'est pas parfait...
