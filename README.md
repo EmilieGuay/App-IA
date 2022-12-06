@@ -21,3 +21,5 @@ Vidéo : https://youtu.be/k6DtBQmLxDk
 
 ## Activités suggérées
 
+
+#### L'App-IA a été créée par Vincent Morin du Cégep de Jonquière (principal) et Émilie Guay du Cégep de Jonquière
