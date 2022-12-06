@@ -7,17 +7,17 @@ Pour savoir comment entraîner des modèles d'IA avec Teachable Machine, consult
 2. Classification de sons avec Teachable Machine :https://youtu.be/HYQO7a2c63Q
 3. Classification de postures avec Teachable Machine: https://youtu.be/fIDzkJQU2f8
 
-##Installation
+## Installation
 
 L'installation de l'App-IA est très simple : il suffit de télécharger le fichier "App-IA-win.zip" pour la version Windows et "App-IA-MacOS.zip" pour la version MacOs. 
 Pour plus de détails, consulter le fichier "Installation de l'App-IA.pdf".
 
 Pour savoir comment télécharger des fichiers qui sont sur GitHub, voir : https://youtu.be/R-6exGZLafM 
 
-##Utilisation
+## Utilisation
 
 
 Vidéo : https://youtu.be/k6DtBQmLxDk
 
-##Activités suggérées
+## Activités suggérées
 
